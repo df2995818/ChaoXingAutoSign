@@ -1,7 +1,7 @@
 
 # ChaoXingAutoSign
 超星学习通-自动签到（ChaoXingAutoSign）
-# 设置环境变量/常用的变量
+# 设置环境变量/常用的变量1
 
 > settings--->secrets
 
